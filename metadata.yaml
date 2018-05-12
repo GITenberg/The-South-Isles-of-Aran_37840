@@ -1,0 +1,28 @@
+_repo: The-South-Isles-of-Aran_37840
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Burke, Oliver J. (Oliver Joseph)
+    alias: Burke, Oliver Joseph
+    birthdate: 1825
+    deathdate: 1889
+    gutenberg_agent_id: '39090'
+    url: http://www.gutenberg.org/2009/agents/39090
+description: ''
+gutenberg_issued: '2011-10-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37840'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Aran Islands (Ireland)'
+- !lcc 'DA'
+- !lcsh 'Galway (Ireland : County) -- History'
+title: The South Isles of Aran (County Galway)
+url: http://www.gutenberg.org/ebooks/37840
