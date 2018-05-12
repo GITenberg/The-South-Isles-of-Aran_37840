@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '39090'
     url: http://www.gutenberg.org/2009/agents/39090
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37840#The-South-Isles-of-Aran
 gutenberg_issued: '2011-10-24'
 gutenberg_type: Text
 identifiers:
